@@ -1112,8 +1112,7 @@ html {
   .thumbnail > img,
   .thumbnail a > img,
   .carousel-inner > .item > img,
-  .carousel-inner > .item > a > img {
-    /* display: block; */
+  .carousel-inner > .item > a > img { 
     max-width: 180px;
     height: 200px;
   }
